@@ -72,7 +72,7 @@ export default defineConfig({
       ...nav,
       {
         text: '联系',
-        <a href="mailto:wanjun0420@outlook.com">contact </a>，
+        link: "mailto:wanjun0420@outlook.com"
       }
     ], sidebar,
     footer: {
