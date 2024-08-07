@@ -152,5 +152,5 @@ DCs表达可识别损伤相关分子模式（DAMPs）的模式识别受体（PRR
 
  轻触阅读原文 
 
-  ![](http://mmbiz.qpic.cn/mmbiz_png/wzBk7nZmzgq7v9Dg22Sz7VtfIJUOJaRx0AfgRtlrKZzKwOhTlicicAor2tvrgf1LUONnpYH3wKPRRrtL6nCvs0tQ/0?wx_fmt=png)  
+   
 

@@ -89,15 +89,7 @@ Zhou, L.; Wang, Z.; Wang, L.; Zhang, X.; Xiao, Y. Tetrazine-Based Ratiometric Ni
 
 10.1021/jacs.3c12181
 
-**点击蓝字 关注我们**
 
-预览时标签不可点
 
-素材来源官方媒体/网络新闻
-
-  继续滑动看下一个 
-
- 轻触阅读原文 
-
-  ![](http://mmbiz.qpic.cn/mmbiz_png/wzBk7nZmzgq7v9Dg22Sz7VtfIJUOJaRx0AfgRtlrKZzKwOhTlicicAor2tvrgf1LUONnpYH3wKPRRrtL6nCvs0tQ/0?wx_fmt=png)  
+   
 

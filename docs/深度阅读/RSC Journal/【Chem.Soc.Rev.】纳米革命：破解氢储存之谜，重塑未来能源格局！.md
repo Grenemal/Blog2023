@@ -228,15 +228,7 @@ Wang, Y.; Xue, Y.; Züttel, A. Nanoscale Engineering of Solid-State Materials fo
 
 10.1039.D3CS00706E
 
-**点击蓝字 关注我们**
 
-预览时标签不可点
 
-素材来源官方媒体/网络新闻
-
-  继续滑动看下一个 
-
- 轻触阅读原文 
-
-  ![](http://mmbiz.qpic.cn/mmbiz_png/wzBk7nZmzgq7v9Dg22Sz7VtfIJUOJaRx0AfgRtlrKZzKwOhTlicicAor2tvrgf1LUONnpYH3wKPRRrtL6nCvs0tQ/0?wx_fmt=png)  
+   
 

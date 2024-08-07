@@ -209,5 +209,5 @@ CD47作为跨膜免疫检查点蛋白，在肿瘤细胞和造血细胞表面表�
 
  轻触阅读原文 
 
-  ![](http://mmbiz.qpic.cn/mmbiz_png/wzBk7nZmzgq7v9Dg22Sz7VtfIJUOJaRx0AfgRtlrKZzKwOhTlicicAor2tvrgf1LUONnpYH3wKPRRrtL6nCvs0tQ/0?wx_fmt=png)  
+   
 
