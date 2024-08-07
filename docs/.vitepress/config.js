@@ -13,7 +13,7 @@ const { nav, sidebar } = AutoNavPlugin({
     'utils',
     'resource',
     'xmind',
-    'Vue'
+    'Vue'，
     '深度阅读'
   ],
   dirPrefix: '',
