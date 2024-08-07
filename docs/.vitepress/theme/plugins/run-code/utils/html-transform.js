@@ -4,7 +4,8 @@ export function html_encode(str) {
       return ({
         '<': '&lt;',
         '>': '&gt;',
-        '&': '&amp;'
+        '&': '&amp;',
+        '%': '&baifen'
       })[matches];
     });
   }
@@ -18,7 +19,9 @@ export function html_decode(str) {
       return ({
         '&lt;': '<',
         '&gt;': '>',
-        '&amp;': '&'
+        '&amp;': '&',
+        '&baifen': '%'
+      
       })[matches];
     });
   }
