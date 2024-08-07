@@ -3,6 +3,8 @@
 
 ![](../asset/2024-07-13_d554dd52afaba87e28db7de90308e378_0.png)
 
+<img alt="" src="../asset/2024-07-13_d554dd52afaba87e28db7de90308e378_0.png" style="margin: 0 auto;" />
+
 本研究报告了一种新型的太阳光照下的异氰酸酯光开关，通过改善 E 型异氰酸酯的吸收谱，实现了高效的 E→Z 光同化反应。
 
 
