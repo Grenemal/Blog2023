@@ -71,8 +71,8 @@ export default defineConfig({
     nav: [
       ...nav,
       {
-        text: '个人空间',
-        link: ''
+        text: '联系',
+        <a href="mailto:wanjun0420@outlook.com">contact </a>，
       }
     ], sidebar,
     footer: {
@@ -82,7 +82,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/Merlin218'
+        link: 'https://github.com/Grenemal'
       }
     ],
     editLink: {
