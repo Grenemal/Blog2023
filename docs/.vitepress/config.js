@@ -14,6 +14,7 @@ const { nav, sidebar } = AutoNavPlugin({
     'resource',
     'xmind',
     'Vue'
+    '深度阅读'
   ],
   dirPrefix: '',
   filePrefix: '',
