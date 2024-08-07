@@ -1,7 +1,7 @@
 ---
 layout: home
 # hero:
-#   name: Code More Create
+#   name: Fluolab
 #   text: Guys 👋 Nice to meet u!
 #   actions:
 #     - theme: alt
@@ -21,6 +21,6 @@ layout: home
 ---
 
 <SpotlightCursorText>
-  Guys,<br />
-  Nice to meet U
+  欢迎来到,<br />
+  荧光的世界
 </SpotlightCursorText>
