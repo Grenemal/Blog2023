@@ -26,8 +26,8 @@ export default defineConfig({
   base: '',
   appearance: false,
   lang: 'zh-CN',
-  title: 'Code More Create',
-  // description: "Merlin's Blog",
+  title: 'Fluolab',
+  // description: "Grenemal's Blog",
   assetsInclude: ['**/*.xmind'],
   // vite: {
   //   plugins: [XMindPlugin()]
@@ -66,13 +66,13 @@ export default defineConfig({
     }
   },
   themeConfig: {
-    // logo: '/logo.png',
-    siteTitle: 'Code More Create',
+    // logo: 'https://avatars.githubusercontent.com/u/65065585?v=4',
+    siteTitle: 'Fluolab',
     nav: [
       ...nav,
       {
-        text: '🏄🏻‍♂️ 算法笔记',
-        link: 'https://algorithm.merlin218.top'
+        text: '个人空间',
+        link: ''
       }
     ], sidebar,
     footer: {
@@ -86,7 +86,7 @@ export default defineConfig({
       }
     ],
     editLink: {
-      pattern: 'https://github.com/Merlin218/Merlin218.github.io/edit/master/docs/:path',
+      pattern: 'https://github.com/Grenemal/Blog2023/edit/master/docs/:path',
       text: '更正错误'
     },
     lastUpdatedText: '更新时间'
